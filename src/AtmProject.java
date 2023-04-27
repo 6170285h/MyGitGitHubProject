@@ -24,5 +24,6 @@ public class AtmProject {
 	//yeni commit
 
     }
+	//remote repoda degişiklik yaptım.
 
 }
